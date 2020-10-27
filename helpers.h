@@ -1,0 +1,2 @@
+
+int cFunc(int,int);

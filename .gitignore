@@ -1,0 +1,7 @@
+__pycache__
+*.o
+*.so
+build
+cythonMiddleware.c
+cythonMiddleware.h
+main
